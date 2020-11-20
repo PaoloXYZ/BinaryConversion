@@ -1,0 +1,10 @@
+C:\Users\codingWinR\Documents\Visual Studio 2019\binaryPrintForm\binaryPrintForm\bin\Debug\binaryPrintForm.exe.config
+C:\Users\codingWinR\Documents\Visual Studio 2019\binaryPrintForm\binaryPrintForm\bin\Debug\binaryPrintForm.exe
+C:\Users\codingWinR\Documents\Visual Studio 2019\binaryPrintForm\binaryPrintForm\bin\Debug\binaryPrintForm.pdb
+C:\Users\codingWinR\Documents\Visual Studio 2019\binaryPrintForm\binaryPrintForm\obj\Debug\binaryPrintForm.csprojAssemblyReference.cache
+C:\Users\codingWinR\Documents\Visual Studio 2019\binaryPrintForm\binaryPrintForm\obj\Debug\binaryPrintForm.Form1.resources
+C:\Users\codingWinR\Documents\Visual Studio 2019\binaryPrintForm\binaryPrintForm\obj\Debug\binaryPrintForm.Properties.Resources.resources
+C:\Users\codingWinR\Documents\Visual Studio 2019\binaryPrintForm\binaryPrintForm\obj\Debug\binaryPrintForm.csproj.GenerateResource.cache
+C:\Users\codingWinR\Documents\Visual Studio 2019\binaryPrintForm\binaryPrintForm\obj\Debug\binaryPrintForm.csproj.CoreCompileInputs.cache
+C:\Users\codingWinR\Documents\Visual Studio 2019\binaryPrintForm\binaryPrintForm\obj\Debug\binaryPrintForm.exe
+C:\Users\codingWinR\Documents\Visual Studio 2019\binaryPrintForm\binaryPrintForm\obj\Debug\binaryPrintForm.pdb
